@@ -1,1 +1,1 @@
-# My personal starting boilerplate for Landing Pages
+# Simple Page with a list of brands
